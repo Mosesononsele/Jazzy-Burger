@@ -1,0 +1,9 @@
+.card-inner{
+   width: 19rem;
+}
+
+@media(max-width:425px){
+    .card-inner{
+        width: 100%;
+    }
+}
